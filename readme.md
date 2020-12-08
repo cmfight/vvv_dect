@@ -2,8 +2,6 @@
 
 本项目完成了无人机图像目标检测的任务，我们对visdrone数据集进行了处理，在yolo和ssd两种框架下进行了训练和测试，并编写demo用于实时的无人机图像目标检测。
 
-> 模型及数据集下载地址：[百度网盘](https://pan.baidu.com/s/1voGZhYyvEHal_uRPxUownQ) 密码：c7z2
-
 ## requirements
 
 ssd: pytorch1.4
